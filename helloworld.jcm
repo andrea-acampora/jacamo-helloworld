@@ -12,6 +12,7 @@
     October 24, 2022 - 10:00:57
 */
 
+/*
 mas helloworld {
 
     agent bob: sample_agent.asl {
@@ -22,6 +23,13 @@ mas helloworld {
       artifact c1: example.Counter(3) 
     }
 
-    
+}
+*/
+
+mas helloworld {
+
+    agent bob: user.asl {
+      
+    }
 
 }
